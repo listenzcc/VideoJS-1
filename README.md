@@ -1,7 +1,17 @@
-# Video.js Default Skin
+# VideoJS-1
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/heff/pen/EarCt](https://codepen.io/heff/pen/EarCt).
+My first attempt to play with video.js.
 
-This is the base skin of Video.js that can be modified to make custom skins.
+I want it to be a video player with collecting functions.
 
-The great thing about Video.js skins is they work in both HTML5 video AND Flash!
+## Thanks to
+
+The original code is from following example
+
+> # Video.js Default Skin
+>
+> A Pen created on CodePen.io. Original URL: [https://codepen.io/heff/pen/EarCt](https://codepen.io/heff/pen/EarCt).
+>
+> This is the base skin of Video.js that can be modified to make custom skins.
+>
+> The great thing about Video.js skins is they work in both HTML5 video AND Flash!
